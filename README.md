@@ -1,4 +1,4 @@
-## Welcome to AB Studios : Wedding Photographers Pride
+## Welcome to AB Studios : Wedding Photographer's Pride
 
 You can use the [editor on GitHub](https://github.com/borde14/ABStudios/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
